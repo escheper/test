@@ -1,1 +1,1 @@
-zxczx
+var s = "zxczx";
