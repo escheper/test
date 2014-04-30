@@ -1,1 +1,2 @@
-Dit is source1.js
+var s = "Dit is source1.js";
+
