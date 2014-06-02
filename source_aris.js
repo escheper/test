@@ -1,5 +1,7 @@
 var s = "zxczx";
 
+// Aanpassing 1.6
+
 var t;
 
 t = "aanpassing 20140527";
@@ -14,4 +16,6 @@ t = "aanpassing 20140529 master";
 
 s = "zxczx";
 
-// Aanpassing 1.6
+// Aanpassingen 1.8
+
+s = "zxczx2";
